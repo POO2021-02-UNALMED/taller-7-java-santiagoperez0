@@ -46,6 +46,7 @@ public class Libro extends Escrito{
 
 	public Strig getEditorial() {
 		return editorial;
+    
 	}
 
 	public void setEditorial(String editorial) {
