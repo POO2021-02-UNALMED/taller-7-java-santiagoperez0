@@ -48,7 +48,7 @@ public class Libro extends Escrito{
 		return editorial;
 	}
 
-	public void setEditorial(Strig editorial) {
+	public void setEditorial(String editorial) {
 		this.editorial = editorial;
 	}
 
